@@ -21,6 +21,8 @@ tabs = st.tabs(["About", "Models"])
 
 with tabs[0]:  # About Tab
     st.title("About")
+    image_url ="https://github.com/user-attachments/assets/6c9c9c93-6717-46be-bfb5-b5f84b2c9daf"
+    st.image(image_url, use_column_width=True)
     st.write("""
     This is an image classification project with six classes: 
              
