@@ -9,6 +9,9 @@ This repository contains two Jupyter notebooks that implement Convolutional Neur
 - **Sea**
 - **Street**
 
+[**Here is the dataset**](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
+
+
 ## Notebooks
 
 ### 1. `cnn_model.ipynb`
