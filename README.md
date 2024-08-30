@@ -1,3 +1,6 @@
+
+![Earthy Clean Grid Lifestyle Photography Photo Collage Facebook Cover (1)](https://github.com/user-attachments/assets/ad4d83a0-8890-48bc-92be-b0a6e0e12f0c)
+
 # Image Classification with Convolutional Neural Networks
 
 This repository contains two Jupyter notebooks that implement Convolutional Neural Networks (CNNs) for image classification. The models are designed to classify images into six different categories:
