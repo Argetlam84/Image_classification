@@ -14,6 +14,7 @@ This repository contains two Jupyter notebooks that implement Convolutional Neur
 
 [**Here is the dataset**](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 
+[**Here is the project app**](https://imageclassification-argetlam.streamlit.app/)
 
 ## Notebooks
 
